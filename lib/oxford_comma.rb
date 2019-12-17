@@ -10,5 +10,6 @@ def oxford_comma(array)
   else 
     nil 
   end 
+end 
 end
 end 
