@@ -9,4 +9,5 @@ def oxford_comma(array)
     string = ", and " + array.pop
     string = array.join (",") << string 
 end 
+end 
 end
